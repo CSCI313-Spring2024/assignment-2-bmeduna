@@ -1,0 +1,66 @@
+p{
+    font-size: 20px;
+    font-family: "Raleway", sans-serif ;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+img{
+    float: left;
+    margin-right: 1em;
+    border-top-right-radius: 2em;
+    border-bottom-right-radius: 2em;
+}
+#sh1{
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:darkolivegreen;
+    font-size: 3em;
+    font-style: italic;
+    font-weight: 120;
+    background-color: aliceblue;
+    border-radius: 1em;
+}
+#csci313{
+    text-align: center;
+    background-color: beige;
+    border-radius: 2em;
+    
+}
+#csci374{
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 2em;
+}
+#csci489{
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 2em;
+}
+#chem{
+    text-align: center;
+    background-color: blanchedalmond;
+    border-radius: 2em;
+}
+#stat{
+    text-align: center;
+    background-color:skyblue;
+    border-radius: 2em;
+}
+#engl{
+    text-align: center;
+    background-color:slateblue;
+    border-radius: 2em;
+}
+#league{
+    text-align: center;
+    background-color: cadetblue;
+    border-radius: 2em;
+}
+#empty{
+    background-color: white;
+}
+#linktext{
+    font-size: 1em;
+}
